@@ -13,6 +13,12 @@ const users = [
   },
   {
     id: "2",
+    username: "song",
+    password: "123",
+    isAdmin: true,
+  },
+  {
+    id: "3",
     username: "jane",
     password: "Jane0908",
     isAdmin: false,
